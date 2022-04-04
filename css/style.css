@@ -1,0 +1,78 @@
+body{
+    background-image: url(/image/body-image.jpg);
+     /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body,html {
+    height: 80%;
+    margin: 0;
+}
+#font-color{
+    font-style: italic;
+}
+#header-image {
+    width: 80%;
+    margin-top: 2em;
+}
+#nav {
+   
+    margin-top: 50px;
+    overflow: hidden;
+}
+#border{
+    background-color:#B0E0E6;
+    margin-top: 4em;
+}
+#nav a:hover {
+        background-color:#F5F5F5;
+}
+#border a {
+  
+}
+.fixMe {
+    position: fixed;
+    top: 0;
+}
+.icon {
+    font-size: 20px;
+}
+#about-me {
+        margin-top:10em
+}
+#border-color{  
+    border-radius: 1em;
+    background-color:#FFFFFF;
+}
+.Project {
+    margin-top:23em;
+    margin-right: 5em;
+}
+.about-font{
+    font-size: 1em;
+}
+#border-color i  {
+    color:green;
+}
+#link {
+    text-decoration: none;
+}
+.fontawesome {
+    color:#6A5ACD;
+}
+.Blog {
+    margin-left: 6em;
+}
+#contact {
+    margin-top: 5em;
+}
+#fb i { 
+    width: 1em;
+}
+.font {
+    font-family: 'Prata', serif;
+}
